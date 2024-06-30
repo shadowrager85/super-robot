@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    padding: 20px;
+  }
+  .highlight {
+    color: #ff00cc; 
+  }
+  footer {
+    background-color: #ff00cc; 
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+  }
+  

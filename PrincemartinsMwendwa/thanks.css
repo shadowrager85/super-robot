@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .thankyou-container {
+    text-align: center;
+  }
+  footer {
+    background-color: #ff00cc; 
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
